@@ -1,0 +1,8 @@
+GET http://localhost:2003/api/v2/read_file
+Accept: application/json
+Content-Type: application/json
+app-orgin: from_anselme
+
+{
+  "name": "1588850223989.txt"
+}
